@@ -1,6 +1,9 @@
 # Claude Code
 .claude/
 
+# Config with sensitive data
+config.env
+
 # Backup files (created by switch script)
 *.backup
 
