@@ -3,6 +3,7 @@
 
 # Config with sensitive data
 config.env
+.env
 
 # Backup files (created by switch script)
 *.backup
